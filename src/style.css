@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #d3d3d3;
+}
+
+h1 {
+  font-weight: 800;
+  color: #65342b;
+}
+
+form {
+  color: #65342b;
+  text-align: center;
+  font-size: 30px;
+}
+
+input {
+  color: white;
+  border-radius: 10px;
+  background-color: #65342b;
+}
+
+a {
+  list-style-type: none;
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: black;
+}
+
+.button {
+  color: white;
+  background-color: #6c757d;
+  border-radius: 5px;
+  font-size: 25px;
+}
+
+.button:hover {
+  color: black;
+}
+
+.link:hover {
+  color: #65342b;
+}
+
